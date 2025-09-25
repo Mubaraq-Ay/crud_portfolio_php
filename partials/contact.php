@@ -17,7 +17,7 @@
         <i class="bi bi-telephone flex-shrink-0"></i>
         <div>
           <h3>Telephone</h3>
-          <p>+1-202-384-0091</p>
+          <p>+1-232-312-2221</p>
         </div>
       </div><!-- End Info Item -->
 
@@ -25,7 +25,7 @@
         <i class="bi bi-envelope flex-shrink-0"></i>
         <div>
           <h3>Email</h3>
-          <a href="mailto:tilewa02@yahoo.co.uk">tilewa02@yahoo.co.uk</a>
+          <a href="mailto:johnpau;@yahoo.co.uk">johnpaul@yahoo.co.uk</a>
         </div>
       </div><!-- End Info Item -->
 

@@ -7,8 +7,8 @@
         <a href=""><i class="bi bi-twitter-x"></i></a>
         <a href=""><i class="bi bi-facebook"></i></a>
         <a href=""><i class="bi bi-instagram"></i></a>
-        <a href="https://wa.me/12023840091" target="_blank"><i class="bi bi-whatsapp"></i></a>
-        <a href="https://www.linkedin.com/in/olanrewaju-shitta-bey-99014122/" target="_blank"><i class="bi bi-linkedin"></i></a>
+        <a href="https://wa.me/" target="_blank"><i class="bi bi-whatsapp"></i></a>
+        <a href="https://www.linkedin.com/" target="_blank"><i class="bi bi-linkedin"></i></a>
       </div>
       <div class="container">
         <div class="copyright">
