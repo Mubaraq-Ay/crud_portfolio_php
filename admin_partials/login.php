@@ -47,7 +47,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         // Redirect to the admin page
         echo "<script>alert('Login successful!'); window.location.href='../admin.php';</script>";
         exit(); // Make sure no further code is executed after the redirect
-      } else {
+      } else { 
         $errors[] = 'Invalid password.';
       }
     } else {
